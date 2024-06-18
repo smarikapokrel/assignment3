@@ -1,0 +1,46 @@
+html {   
+  
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    width: 100%;  
+  
+  }
+  .poster{
+    background-image: url("images/Matt-Ferguson-Avengers-Poster-2016-Grey-Matter-Art.jpg") ; 
+    background-size: cover;
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-position: center center;
+    position: relative;
+    height: 100%;
+    width: 100%;  
+    text-align: center;
+  }
+  header{
+    top: 5%;
+    font-size: 3em;
+    font-weight: 700;
+  }
+  h1{
+    font-size: 3em;
+    margin-top: 20px;
+    font-weight: 700;
+    position: absolute;
+      color: white;
+      width: 100%;
+}
+.cast, .directed, .produced, .executive-producer, .screenplay, .story, .edited {
+    margin: 20px 0;
+}
+a {
+    color: #FFD700;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+  
